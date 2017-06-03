@@ -1,0 +1,19 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Week18 HW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avissony/scraper.git"
+  },
+  "author": "michaelandwelehill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avissony/scraper/issues"
+  },
+  "homepage": "https://github.com/avissony/scraper#readme"
+}
